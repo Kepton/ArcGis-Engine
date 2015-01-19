@@ -1,0 +1,13 @@
+delete sddraft success
+----MESSAGES---
+    Layer draws at all scale ranges (CODE 30003)
+applies to:
+治超站
+----WARNINGS---
+    Layer's data source has a different projection [GCS_WGS_1984] than the data frame's projection (CODE 10001)
+applies to:
+治超站
+----ERRORS---
+    Data frame does not have a spatial reference (CODE 2)
+applies to:
+Service could not be published because errors were found during analysis.

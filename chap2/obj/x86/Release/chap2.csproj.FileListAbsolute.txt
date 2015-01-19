@@ -1,0 +1,7 @@
+D:\Kepton\Codes\C#\ArcgisEngineForm\chap2\bin\Release\chap2.exe
+D:\Kepton\Codes\C#\ArcgisEngineForm\chap2\bin\Release\chap2.pdb
+D:\Kepton\Codes\C#\ArcgisEngineForm\chap2\obj\x86\Release\chap2.Properties.Resources.resources
+D:\Kepton\Codes\C#\ArcgisEngineForm\chap2\obj\x86\Release\chap2.csproj.GenerateResource.Cache
+D:\Kepton\Codes\C#\ArcgisEngineForm\chap2\obj\x86\Release\chap2.exe
+D:\Kepton\Codes\C#\ArcgisEngineForm\chap2\obj\x86\Release\chap2.pdb
+D:\Kepton\Codes\C#\ArcgisEngineForm\chap2\obj\x86\Release\chap2.mapcontrol.resources

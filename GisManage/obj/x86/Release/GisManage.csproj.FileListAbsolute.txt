@@ -1,0 +1,6 @@
+D:\Kepton\Codes\C#\ArcgisEngineForm\GisManage\bin\Release\GisManage.exe
+D:\Kepton\Codes\C#\ArcgisEngineForm\GisManage\bin\Release\GisManage.pdb
+D:\Kepton\Codes\C#\ArcgisEngineForm\GisManage\obj\x86\Release\GisManage.Properties.Resources.resources
+D:\Kepton\Codes\C#\ArcgisEngineForm\GisManage\obj\x86\Release\GisManage.csproj.GenerateResource.Cache
+D:\Kepton\Codes\C#\ArcgisEngineForm\GisManage\obj\x86\Release\GisManage.exe
+D:\Kepton\Codes\C#\ArcgisEngineForm\GisManage\obj\x86\Release\GisManage.pdb

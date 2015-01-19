@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chap1", "ArcgisEngineForm\chap1.csproj", "{91E2D4C8-B336-4EBF-A707-38CC9B0B808B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chap2", "chap2\chap2.csproj", "{149B3D6F-03C5-41B5-B6A8-16ED8E1063D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GisManage", "GisManage\GisManage.csproj", "{04B47095-AFC2-49C7-814F-AAADFB5EA8C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E2D4C8-B336-4EBF-A707-38CC9B0B808B}.Debug|x86.ActiveCfg = Debug|x86
+		{91E2D4C8-B336-4EBF-A707-38CC9B0B808B}.Debug|x86.Build.0 = Debug|x86
+		{91E2D4C8-B336-4EBF-A707-38CC9B0B808B}.Release|x86.ActiveCfg = Release|x86
+		{91E2D4C8-B336-4EBF-A707-38CC9B0B808B}.Release|x86.Build.0 = Release|x86
+		{149B3D6F-03C5-41B5-B6A8-16ED8E1063D5}.Debug|x86.ActiveCfg = Debug|x86
+		{149B3D6F-03C5-41B5-B6A8-16ED8E1063D5}.Debug|x86.Build.0 = Debug|x86
+		{149B3D6F-03C5-41B5-B6A8-16ED8E1063D5}.Release|x86.ActiveCfg = Release|x86
+		{149B3D6F-03C5-41B5-B6A8-16ED8E1063D5}.Release|x86.Build.0 = Release|x86
+		{04B47095-AFC2-49C7-814F-AAADFB5EA8C8}.Debug|x86.ActiveCfg = Debug|x86
+		{04B47095-AFC2-49C7-814F-AAADFB5EA8C8}.Debug|x86.Build.0 = Debug|x86
+		{04B47095-AFC2-49C7-814F-AAADFB5EA8C8}.Release|x86.ActiveCfg = Release|x86
+		{04B47095-AFC2-49C7-814F-AAADFB5EA8C8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
